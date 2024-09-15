@@ -246,7 +246,7 @@ $ refresh_tokens_cli refresh [OPTIONS]
 本项目采用 MIT 许可证。
 
 > [!CAUTION]  
-> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments. Please do not use the build attachments directly. The author is not responsible for any problems with the source plugin.
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
